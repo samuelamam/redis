@@ -1,0 +1,5 @@
+[2016/11/14 01:24:55] MSG - Get New AccessToken Success.
+[2016/11/14 02:13:46] ERR - createMenu Error. invalid credential, access_token is invalid or not latest hint: [c3YP_a0721tsz8!][40001]
+[2016/11/14 02:13:46] MSG - Reset Auth.
+[2016/11/14 02:13:46] MSG - Retry Call createMenu.
+[2016/11/14 02:13:46] MSG - Get New AccessToken Success.

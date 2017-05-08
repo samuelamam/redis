@@ -1,0 +1,16 @@
+[2016/12/26 01:54:53] ERR - getOauthUserinfo Error. access_token missing, hints: [ req_id: PSmhKa0426s104 ][41001]
+[2016/12/26 01:54:53] MSG - Reset Auth.
+[2016/12/26 01:54:53] MSG - Retry Call getOauthUserinfo.
+[2016/12/26 01:55:16] ERR - getOauthUserinfo Error. access_token missing, hints: [ req_id: p9S5Sa0449s111 ][41001]
+[2016/12/26 01:55:16] MSG - Reset Auth.
+[2016/12/26 01:55:16] MSG - Retry Call getOauthUserinfo.
+[2016/12/26 01:55:28] ERR - getOauthUserinfo Error. access_token missing, hints: [ req_id: RCcERa0461ns84 ][41001]
+[2016/12/26 01:55:28] MSG - Reset Auth.
+[2016/12/26 01:55:28] MSG - Retry Call getOauthUserinfo.
+[2016/12/26 01:56:04] ERR - getOauthUserinfo Error. access_token missing, hints: [ req_id: S.0M40496ns83 ][41001]
+[2016/12/26 01:56:04] MSG - Reset Auth.
+[2016/12/26 01:56:04] MSG - Retry Call getOauthUserinfo.
+[2016/12/26 02:31:24] ERR - getOauthUserinfo Error. access_token missing, hints: [ req_id: scINFA0617s106 ][41001]
+[2016/12/26 02:31:24] MSG - Reset Auth.
+[2016/12/26 02:31:24] MSG - Retry Call getOauthUserinfo.
+[2016/12/26 02:31:24] MSG - Get New AccessToken Success.

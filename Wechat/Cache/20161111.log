@@ -1,0 +1,13 @@
+[2016/11/11 09:52:59] MSG - Get New AccessToken Success.
+[2016/11/11 10:41:35] ERR - getMenu Error. invalid credential, access_token is invalid or not latest hint: [1uEXfa0986tsz4!][40001]
+[2016/11/11 10:41:35] MSG - Reset Auth.
+[2016/11/11 10:41:35] MSG - Retry Call getMenu.
+[2016/11/11 10:41:38] MSG - Get New AccessToken Success.
+[2016/11/11 11:43:36] ERR - createMenu Error. invalid credential, access_token is invalid or not latest hint: [FCbjeA0708tsz8!][40001]
+[2016/11/11 11:43:36] MSG - Reset Auth.
+[2016/11/11 11:43:36] MSG - Retry Call createMenu.
+[2016/11/11 11:43:37] MSG - Get New AccessToken Success.
+[2016/11/11 11:56:54] ERR - createMenu Error. invalid credential, access_token is invalid or not latest hint: [Bo40sA0505tsz4!][40001]
+[2016/11/11 11:56:54] MSG - Reset Auth.
+[2016/11/11 11:56:54] MSG - Retry Call createMenu.
+[2016/11/11 11:56:54] MSG - Get New AccessToken Success.
